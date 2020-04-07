@@ -10,3 +10,7 @@
 转录组数据预测PASA软件是基于Unigene/EST序列进行预测软件，这个可能就需要拿到一个混样转录组数据首先进行无参组装，接下来根据Unigene组装结果在进行比对，通常用Gmap或Blat两种方法，最好三代全长转录本和二代一起来进行预测，这样可以使得找到的结构更为准确、可靠，此外PASA还有另外的一个功能就是可以用其预测可变剪切，俗称PASA修饰。
 + 从头预测：先构建repeat-mask genome， 在这个基础上就用 August, Genescan, GlimmerHMM, Geneid 和 SNAP 预测编码区
 ## 用TBtools预测ORF，配合tblastn结果->新鲜出炉的NLP序列
+1. 新鲜出炉的NLP序列，提取DNA序列->预测ORF+blast结果NLP基因
+2. 使用megaX翻译序列->预测ORF+blast结果NLP基因.AA.fas
+3. 使用Clustal Omega进行序列比对，使用Jalview美化->![鉴定的序列.png](E:\新建文件夹\Atlanta)
+4. 使用SignalP5.0进行信号肽预测，使用SecretomeP2.0进行非经典分泌预测

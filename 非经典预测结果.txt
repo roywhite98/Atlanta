@@ -1,0 +1,14 @@
+# SecretomeP 1.0f predictions
+
+# Name	       NN-score  Odds   Weighted   Warning
+# 				by prior
+# =============================================================================
+PvNLP1         	0.431	0.821	  0.002	   -
+PvNLP2         	0.540	1.221	  0.002	   -
+PvNLP3         	0.671	1.818	  0.004	   signal peptide predicted by SignalP
+PvNLP4         	0.834	4.213	  0.008	   signal peptide predicted by SignalP
+PvNLP5         	0.825	3.795	  0.008	   signal peptide predicted by SignalP
+PvNLP6         	0.777	2.896	  0.006	   -
+PvNLP7         	0.618	1.518	  0.003	   signal peptide predicted by SignalP
+# =============================================================================
+截止值=0.6
