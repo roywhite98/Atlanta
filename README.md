@@ -12,5 +12,5 @@
 ## 用TBtools预测ORF，配合tblastn结果->新鲜出炉的NLP序列
 1. 新鲜出炉的NLP序列，提取DNA序列->预测ORF+blast结果NLP基因
 2. 使用megaX翻译序列->预测ORF+blast结果NLP基因.AA.fas
-3. 使用Clustal Omega进行序列比对，使用Jalview美化->![鉴定的序列.png](E:\新建文件夹\Atlanta)
+3. 使用Clustal Omega进行序列比对，使用Jalview美化->![鉴定的序列.png](https://github.com/roywhite98/Atlanta/blob/dev/%E9%89%B4%E5%AE%9A%E7%9A%84%E5%BA%8F%E5%88%97.png)
 4. 使用SignalP5.0进行信号肽预测，使用SecretomeP2.0进行非经典分泌预测
