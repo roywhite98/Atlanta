@@ -1,0 +1,56 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+998.1ntORFstart_58288_end_59104_frame_2_length_816          MSRTMQSKRMQNSVAGMPNHSLFLLLPHTRMQFAVFCLLALG------------------	42
+998.1ntORFstart_60532_end_61252_frame_-1_length_720         ------------------------------MRVLVLCAAVLT------------------	12
+935.1ntORFstart_142671_end_143511_frame_1_length_840        -----------------------MKISNLLGVLVVFLAVVKGQKKDEGSDDSELLALVTV	37
+102.1ntORFstart_41220_end_41802_frame_-2_length_582         ------------------------------------------------------------	0
+102.1ntORFstart_115274_end_115946_frame_-3_length_1512      ------------------------------------------------------------	0
+214.1ntORFstart_32475_end_33201_frame_1_length_726          ------------------------------MHLCALLIAAAGV-----------------	13
+214.1ntORFstart_29086_end_29908_frame_-3_length_822         -----------------------MKLPTFLIGFVALLVTSNGS-----------------	20
+                                                                                                                        
+
+998.1ntORFstart_58288_end_59104_frame_2_length_816          -----NFAY------------ADNIHHVINKLPYDKIKPF--PPVQPDCQINEIALQFQP	83
+998.1ntORFstart_60532_end_61252_frame_-1_length_720         -----CFV-----------------TVSAQEVAYDRIEPF--EEVKPDCPLNELALMFKP	48
+935.1ntORFstart_142671_end_143511_frame_1_length_840        PDGPVIFSI-EQVEQVAAPSTDKHLSKLKPKIAYDKVEPFEMAQPSESTITEKAAIKFRP	96
+102.1ntORFstart_41220_end_41802_frame_-2_length_582         --------------------------------------------------------MLKT	4
+102.1ntORFstart_115274_end_115946_frame_-3_length_1512      ---------------------MGPWE--AKWIRHSDVRPF--PQPEPMTVEEKVAVMLKP	35
+214.1ntORFstart_32475_end_33201_frame_1_length_726          ---------------------LASVRANYVEIDAYTVKPF--AQQKPTTDSERSALKYKP	50
+214.1ntORFstart_29086_end_29908_frame_-3_length_822         ----ARYVYREDPDDSADPPNPGALHANPILIDVDDVQPF--PQPRAITDSQKSALVYKP	74
+                                                                                                                      : 
+
+998.1ntORFstart_58288_end_59104_frame_2_length_816          QLHISSGCHPYPAVDAKGYI-SNGLGVS-HTFTDCDGSPEGSQVYGRAYVF--KGYLAIM	139
+998.1ntORFstart_60532_end_61252_frame_-1_length_720         QLYISNGCHPYPAIDSEGHF-SNGLSAF-RIGTSCDGSSKGSQVYGRAFYNSDRNIMEIM	106
+935.1ntORFstart_142671_end_143511_frame_1_length_840        KLYIANGCHAYPAVNKAGQI-SKGMKTADPTFATCGKPSKGTQVYGRSAWF--GTVWAIM	153
+102.1ntORFstart_41220_end_41802_frame_-2_length_582         RDYVTNGCHPYPAVNDLGEIHNSGLKTKGAPSGMCKGSGWGSQVYGRHALF--KGVWAIM	62
+102.1ntORFstart_115274_end_115946_frame_-3_length_1512      ELHVSSGCHPYPAVNDLGET-NGGLKTTGAPSGMCKGSGWGSQVYGRHASF--RGVWAIM	92
+214.1ntORFstart_32475_end_33201_frame_1_length_726          HLHVQAGCHPYPAVQRDGSL-SAGFEWKEKNSQPCGRSPLGSQVYSRSNWY--KEKWAIM	107
+214.1ntORFstart_29086_end_29908_frame_-3_length_822         RLYIKSGCHPYPAVQANGSL-SDGLQWKNFLRSPCPGSPKGSQVYSRSDWY--EGKWAIM	131
+                                                            . ::  *** ***::  *   . *:         *     *:***.*           **
+
+998.1ntORFstart_58288_end_59104_frame_2_length_816          YAWYFPRDYM-VTPVWVGHRNAWEHAVLWINDMD-DDPKLLAVAAKSM-VGYKTYSPPKS	196
+998.1ntORFstart_60532_end_61252_frame_-1_length_720         YAWYFPRDRM-ITPVYIGHRNAWEHAIVYVDVAK-DDPQLLAVAARGM-WSYRTYNPPRS	163
+935.1ntORFstart_142671_end_143511_frame_1_length_840        YAWYFPDI-----------PLDWEYAIVWTNNPNVSNPVILGVTVSNSEGSTTSQTPPDP	202
+102.1ntORFstart_41220_end_41802_frame_-2_length_582         YSWYFPKDMPST---DFGHRHDWEHVIVWIEKPVVENVKILAVTPSAH-DGYLKQVPPNP	118
+102.1ntORFstart_115274_end_115946_frame_-3_length_1512      YVWYFPKDMPSA---HFGHRHDWEHVIVWIEKPVVENVKILAVTPSFH-DGYSKQVPPDP	148
+214.1ntORFstart_32475_end_33201_frame_1_length_726          YAWYFPKASNHIGRGVSGSRHYWLYAIVWTDDANPTNSSLLGVTLSAGI-GLSKHTKLKS	166
+214.1ntORFstart_29086_end_29908_frame_-3_length_822         YAWYLPRALDRVTWLVNGHRHYWLWVVVWTDSPDPKTSTLLATSMPGVANNIHKYYPPKS	191
+                                                            * **:*                *  .::: :        :*..:      .  .      
+
+998.1ntORFstart_58288_end_59104_frame_2_length_816          KYMDD-DSFKLKYKWMVVS----HHYLAATKDKGEFQDLIMWDNMTENARISTGPQGW--	249
+998.1ntORFstart_60532_end_61252_frame_-1_length_720         DYLDDEKSFKLQYKWIGIS----HHYLKGTKNPGEFQDLIMWDNMTVKARHNIQEKTW--	217
+935.1ntORFstart_142671_end_143511_frame_1_length_840        AMVDG-RSVKIAY---------NNKGLESSTTLGGTQNLVMWHQLTVEAQEALNKKAS-F	251
+102.1ntORFstart_41220_end_41802_frame_-2_length_582         SHLHG-L----AAKINYESKWPINHALEPTGLGGEKQDLILWEQLSSNARHALNIVHW--	171
+102.1ntORFstart_115274_end_115946_frame_-3_length_1512      SHLNG-L----AAKFIYESEWPINHALRPTRKGGKKQDLILWEQMSSNARHALNIVPW--	201
+214.1ntORFstart_32475_end_33201_frame_1_length_726          KHVIDGTTLKLKS---HLSFWGRRLALKFTNKLGETQDLITWEQLPPEAQTALTL----D	219
+214.1ntORFstart_29086_end_29908_frame_-3_length_822         KYVIREKTLKVKSYQNHILF--IKHGLELTDRAGDFQDLVTWEQMTDEARAALSTFHRPE	249
+                                                              :                    .  *  :   *  *:*: *.::  :*:          
+
+998.1ntORFstart_58288_end_59104_frame_2_length_816          SHYQSPLGDDRFFRALHESYPF*------	271
+998.1ntORFstart_60532_end_61252_frame_-1_length_720         FGSKAPIADDKFFKYLEKARPF*------	239
+935.1ntORFstart_142671_end_143511_frame_1_length_840        NGVQVPMNDNHFLRNLEASWPFSKEYLQ*	279
+102.1ntORFstart_41220_end_41802_frame_-2_length_582         GDANTPFNDYVFMGKLEKAFPL*------	193
+102.1ntORFstart_115274_end_115946_frame_-3_length_1512      GAANTPFNDFVFMGRLEKAFPF*------	223
+214.1ntORFstart_32475_end_33201_frame_1_length_726          YKLNTPLQDFRFEDLLKEAYPF*------	241
+214.1ntORFstart_29086_end_29908_frame_-3_length_822         HAANPPLQDKRFYEVLEKAYPFDR*----	273
+                                                               : *: *  *   *. : *:       
