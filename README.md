@@ -1,5 +1,7 @@
-# 毕设
+# 毕设-基因家族鉴定
+
 ## 葡萄霜霉菌NLP家族鉴定
+
 ### evalue为default = 10，未筛选
 + megablastn方法->[megablastnresult(2hits）](https://github.com/roywhite98/Atlanta/blob/dev/blast%E7%BB%93%E6%9E%9C/megablastnresult)
 + blastn方法->[blastnresult(7hits)](https://github.com/roywhite98/Atlanta/blob/dev/blast%E7%BB%93%E6%9E%9C/blastnresult)
@@ -17,13 +19,20 @@
 4. 使用SignalP5.0进行信号肽预测，使用SecretomeP2.0进行非经典分泌预测->[序列信息.xls](https://github.com/roywhite98/Atlanta/blob/dev/%E5%BA%8F%E5%88%97%E4%BF%A1%E6%81%AF.xlsx)
 
 ## 多卵菌NLP基因家族鉴定
+
 ### NCBI搜集typeⅠ，typeⅡ，typeⅢ代表序列
 + **typeⅠ** Afu5g02100 = XP_748132.1 conserved hypothetical protein \[Aspergillus fumigatus Af293\]
 + **typeⅡ** PsojNIP = AM48170.1 necrosis-inducing protein \[Phytophthora sojae\]
 + **typeⅢ** NLPPcc = ACT13867.1 Necrosis inducing protein \[Pectobacterium carotovorum subsp. carotovorum PC1\]
 
-### 进行blastp分析
+### 进行blastp分析，做卵菌NLP序列准备
 使用BlastP方法对nr数据库进行比对，取identify>=80%的序列，evalue小于1e-5的序列，并人工筛选在100aa到300aa的序列。  
-得到了三个输出结果，并将其合并在[123汇总.fa]中。
-_整理了仓库_ 添加了几个文件夹
+得到了三个输出结果，并将其合并在[123汇总.fa](https://github.com/roywhite98/Atlanta/blob/dev/%E5%8D%B5%E8%8F%8Cblastp%E6%9F%A5%E8%AF%A2%E7%BB%93%E6%9E%9C/123%E6%B1%87%E6%80%BB.fa)中。
+整理了 _仓库_  :添加了几个文件夹  
+
+**待进行的任务** : 从文章中摘取他人已经鉴定好的NLP序列，并放进卵菌参考序列中。
+
+## 绘制进化树
+用上一步得到的blastp结果，同鉴定的PvNLP序列进行多序列比对，并绘制NJ系统发育树。使用[**evolview**](https://www.evolgenius.info/evolview/#mytrees/EXAMPLES/Sample%20tree%201(Simple%20tree%20example))
+进行系统发育树的美化。将亲缘关系较近的leaf collapsed。
 
