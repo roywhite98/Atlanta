@@ -14,11 +14,16 @@
 1. 新鲜出炉的NLP序列，提取DNA序列->[预测ORF+blast结果NLP基因](https://github.com/roywhite98/Atlanta/blob/dev/%E9%A2%84%E6%B5%8BORF%2Bblast%E7%BB%93%E6%9E%9CNLP%E5%9F%BA%E5%9B%A0.fa)
 2. 使用megaX翻译序列->[预测ORF+blast结果NLP基因.AA.fas](https://github.com/roywhite98/Atlanta/blob/dev/%E9%A2%84%E6%B5%8BORF%2Bblast%E7%BB%93%E6%9E%9CNLP%E5%9F%BA%E5%9B%A0.AA.fas)
 3. 使用Clustal Omega进行序列比对，使用Jalview美化->![鉴定的序列.png](https://github.com/roywhite98/Atlanta/blob/dev/%E9%89%B4%E5%AE%9A%E7%9A%84%E5%BA%8F%E5%88%97.png)
-4. 使用SignalP5.0进行信号肽预测，使用SecretomeP2.0进行非经典分泌预测->
+4. 使用SignalP5.0进行信号肽预测，使用SecretomeP2.0进行非经典分泌预测->[序列信息.xls](https://github.com/roywhite98/Atlanta/blob/dev/%E5%BA%8F%E5%88%97%E4%BF%A1%E6%81%AF.xlsx)
 
 ## 多卵菌NLP基因家族鉴定
 ### NCBI搜集typeⅠ，typeⅡ，typeⅢ代表序列
 + **typeⅠ** Afu5g02100 = XP_748132.1 conserved hypothetical protein \[Aspergillus fumigatus Af293\]
 + **typeⅡ** PsojNIP = AM48170.1 necrosis-inducing protein \[Phytophthora sojae\]
 + **typeⅢ** NLPPcc = ACT13867.1 Necrosis inducing protein \[Pectobacterium carotovorum subsp. carotovorum PC1\]
+
+### 进行blastp分析
+使用BlastP方法对nr数据库进行比对，取identify>=80%的序列，evalue小于1e-5的序列，并人工筛选在100aa到300aa的序列。  
+得到了三个输出结果，并将其合并在[123汇总.fa]中。
+_整理了仓库_ 添加了几个文件夹
 
