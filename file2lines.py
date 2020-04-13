@@ -19,7 +19,7 @@ class R():
 		for line in self.lines:
 			if line:
 				if line.startswith(">"):
-					gene_name = line
+					gene_name = line.strip()
 					seq = ''
 				else:
 					seq += line
