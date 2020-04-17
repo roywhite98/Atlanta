@@ -36,5 +36,5 @@
 用上一步得到的blastp结果，同鉴定的PvNLP序列进行多序列比对，并绘制NJ系统发育树。使用[**evolview**](https://www.evolgenius.info/evolview/#mytrees/EXAMPLES/Sample%20tree%201(Simple%20tree%20example))
 进行系统发育树的美化。将亲缘关系较近的leaf collapsed。
 大豆疫霉，采用四个序列作为query进行blastp比对，取identify>=50%的序列，evalue小于1e-5的序列，并人工筛选在100aa到300aa的序列，并删除不完整序列，重命名。
-[系统发育树](https://github.com/roywhite98/Atlanta/blob/dev/%E7%B3%BB%E7%BB%9F%E5%8F%91%E8%82%B2%E6%A0%91.png)
+![系统发育树](https://github.com/roywhite98/Atlanta/blob/dev/%E7%B3%BB%E7%BB%9F%E5%8F%91%E8%82%B2%E6%A0%91.png)
 
