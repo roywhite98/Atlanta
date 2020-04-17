@@ -10,7 +10,19 @@ INT20	name=Phytophthora(1);Nothophytophthora(4),linewidth=2
 INT24	name=Phytophthora(4),linewidth=2
 INT27	name=Phytophthora(13),linewidth=2
 INT129	name=Aspergillus(9),linewidth=2
-INT76	name=Phytophthora(18)(include:PsNLP8-9 11;PcNLP6 8-13;PvNLP1-2)
+INT76	name=Phytophthora(18)(include:PsNLP8-9 11;PcNLP6 8-13;PvNLP1-2),linewidth=2
 INT67	name=PcNLP5 7,linewidth=2
 INT40	name=Globisporangium(6);Pythium(1),linewidth=2
 INT46	name=Phytophthora(9);Nothophytophthora(2),linewidth=2
+INT58	name=Phytophthora(9)(include:PcNLP4;PsNLP6),linewidth=2
+INT56	name=Nothophytophthora(2),linewidth=2
+INT71	name=PvNLP3-4 6 7,linewidth=2
+INT74	name=PsNLP14-15,linewidth=2
+INT120	name=Penicillium(2),linewidth=2
+INT155	name=Gallaecimonas(2),linewidth=2
+
+!grouplabel	style=4,color=pink,show=1,marginPCT=0.05,fontsize=14,fontcolor=white,fontitalic=0,textalign=middle,textorientation=horizontal,linewidth=2
+!op	0.8
+INT9,INT93	bkcolor=#404AC3,text=TYPE1
+INT104,GES66368|Aspergillus_terreus	bkcolor=green,text=type2,fontcolor=darkred
+INT139,INT174	bkcolor=#BE4144,text=type3,linewidth=4,fontsize=16
