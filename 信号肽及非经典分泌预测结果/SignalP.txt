@@ -1,0 +1,9 @@
+# SignalP-5.0	Organism: Eukarya	Timestamp: 20200406183514
+# ID	Prediction	SP(Sec/SPI)	OTHER	CS Position
+102.1ntORFstart_41220_end_41802_frame_-2_length_582	OTHER	0.003428	0.996572	
+102.1ntORFstart_115274_end_115946_frame_-3_length_1512	OTHER	0.003042	0.996958	
+214.1ntORFstart_32475_end_33201_frame_1_length_726	SP(Sec/SPI)	0.995236	0.004764	CS pos: 19-20. VRA-NY. Pr: 0.8791
+214.1ntORFstart_29086_end_29908_frame_-3_length_822	SP(Sec/SPI)	0.977451	0.022549	CS pos: 21-22. GSA-RY. Pr: 0.6442
+998.1ntORFstart_58288_end_59104_frame_2_length_816	OTHER	0.469629	0.530371	
+998.1ntORFstart_60532_end_61252_frame_-1_length_720	SP(Sec/SPI)	0.999389	0.000611	CS pos: 19-20. VSA-QE. Pr: 0.9733
+935.1ntORFstart_142671_end_143511_frame_1_length_840	SP(Sec/SPI)	0.984995	0.015005	CS pos: 19-20. VKG-QK. Pr: 0.9322

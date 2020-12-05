@@ -1,0 +1,69 @@
+image1= new Image();
+image1.src = "/images/m_e0.gif";
+image1on = new Image();
+image1on.src = "/images/m_e1.gif";
+
+image2= new Image();
+image2.src = "/images/m_rg0.gif";
+image2on = new Image();
+image2on.src = "/images/m_rg1.gif";
+
+image3= new Image();
+image3.src = "/images/m_cds0.gif";
+image3on = new Image();
+image3on.src = "/images/m_cds1.gif";
+
+image4= new Image();
+image4.src = "/images/m_pu0.gif";
+image4on = new Image();
+image4on.src = "/images/m_pu1.gif";
+
+image5= new Image();
+image5.src = "/images/m_n0.gif";
+image5on = new Image();
+image5on.src = "/images/m_n1.gif";
+
+image6= new Image();
+image6.src = "/images/m_cps0.gif";
+image6on = new Image();
+image6on.src = "/images/m_cps1.gif";
+
+image7= new Image();
+image7.src = "/images/m_bep0.gif";
+image7on = new Image();
+image7on.src = "/images/m_bep1.gif";
+
+image8= new Image();
+image8.src = "/images/m_s0.gif";
+image8on = new Image();
+image8on.src = "/images/m_s1.gif";
+
+image9= new Image();
+image9.src = "/images/m_ac0.gif";
+image9on = new Image();
+image9on.src = "/images/m_ac1.gif";
+
+image10= new Image();
+image10.src = "/images/m_cbt0.gif";
+image10on = new Image();
+image10on.src = "/images/m_cbt1.gif";
+
+image11= new Image();
+image11.src = "/images/m_cc0.gif";
+image11on = new Image();
+image11on.src = "/images/m_cc1.gif";
+
+image12= new Image();
+image12.src = "/images/m_c0.gif";
+image12on = new Image();
+image12on.src = "/images/m_c1.gif";
+
+image13= new Image();
+image13.src = "/images/m_i0.gif";
+image13on = new Image();
+image13on.src = "/images/m_i1.gif";
+
+image14= new Image();
+image14.src = "/images/m_obl0.gif";
+image14on = new Image();
+image14on.src = "/images/m_obl1.gif";
